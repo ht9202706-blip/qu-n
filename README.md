@@ -1,2 +1,31 @@
-# qu-n
+# lab3-mach-bao-
 Báo cáo Lab 3 - ESP32 + FreeRTOS + MQTT
+https://wokwi.com/projects/477959412037374977
+# BÁO CÁO LAB 3 - MẠCH BÁO CHÁY GIA ĐÌNH
+
+## 1. Thông tin đề tài
+Thiết kế mạch báo cháy gia đình sử dụng ESP32, FreeRTOS, cảm biến MQ2, DHT22 và giao thức MQTT.
+
+## 2. Báo cáo
+[Download báo cáo Lab 3](https://1drv.ms/w/c/98a1e36013f6be55/IQAaV-UeMJMNR4cfSeSXAr-VASvea_baKrWvcScqSRGNWWg?e=oAa8pV)
+
+## 3. Mô phỏng Wokwi
+[Dán link Wokwi tại đây](https://wokwi.com/projects/480577332101351425).
+
+## 4. Giao diện Website
+[Dán link Website tại đây]().
+
+## 5. Mã nguồn
+- sketch.ino: Chương trình ESP32 và FreeRTOS.
+- diagram.json: Sơ đồ kết nối mạch.
+- index.html: Giao diện Web giám sát và điều khiển.
+
+## 6. Chức năng hệ thống
+- Đọc nồng độ khí gas từ MQ2.
+- Đọc nhiệt độ từ DHT22.
+- Sử dụng FreeRTOS với 3 Task.
+- Truyền dữ liệu qua MQTT Broker.
+- Hiển thị dữ liệu theo thời gian thực.
+- Điều khiển quạt và máy bơm ở chế độ MANUAL.
+- Cảnh báo tự động khi vượt ngưỡng.
+
