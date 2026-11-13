@@ -12,7 +12,7 @@ Thiết kế mạch báo cháy gia đình sử dụng ESP32, FreeRTOS, cảm bi�
 [Dán link Wokwi tại đây]https://wokwi.com/projects/480577332101351425
 
 ## 4. Giao diện Website
-[Dán link Website tại đây]().
+[Dán link Website tại đây]https://ht9202706-blip.github.io/qu-n/
 
 ## 5. Mã nguồn
 - sketch.ino: Chương trình ESP32 và FreeRTOS.
